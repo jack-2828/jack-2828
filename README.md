@@ -1,5 +1,8 @@
-## Hi there 👋
+<h2 align="center">Hey! My name is Jack Rhoa and I'm a B.S. Computer Science student at UVA.</h2>
 
+<h3 align="left">My skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,wordpress,html,python,raspberrypi,java,html,css)](https://skillicons.dev)
 <!--
 **jack-2828/jack-2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
