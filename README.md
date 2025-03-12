@@ -1,6 +1,7 @@
-<h2 align="center">Hey! My name is Jack Rhoa and I'm a B.S. Computer Science student at UVA.</h2>
+<h1 align="center">Hi! 👋 I'm Jack Rhoa</h1>
 
-<h3 align="left">My skills</h3>
+
+<h3 align="left">I'm a first-year B.S. Computer Science student at UVA</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=sklearn,wordpress,html,python,flask,sqlite,raspberrypi,java,css)](https://skillicons.dev)
 <!--
